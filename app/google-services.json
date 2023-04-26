@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835169268777",
+    "project_id": "practica13-bfac2",
+    "storage_bucket": "practica13-bfac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835169268777:android:45719cd6cafdb5e8861838",
+        "android_client_info": {
+          "package_name": "mx.itson.edu.practica13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835169268777-n9k2t3jjqm2g1jv44186tkfibu1rbosc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2tWts65Q9duUcMYK-lpwrBS5I78AQyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835169268777-n9k2t3jjqm2g1jv44186tkfibu1rbosc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
